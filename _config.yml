@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: lujiayan's CapstoneProject Template (for NFU Students)
+title: lujiayan's CapstoneProject Template 
 email:
 description: "顶点课程/毕业设计/毕业论文/模板"
-baseurl: "/CapstoneProject"  # the optional subpath of your site, e.g. "/blog"
+baseurl: "/CapstoneProject-1"  # the optional subpath of your site, e.g. "/blog"
 url: "https://lujiayan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
   name: "Student of Nanfang College of Sun Yat-sen University"
