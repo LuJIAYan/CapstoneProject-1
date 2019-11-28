@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: lujiayan's CapstoneProject Template 
+title: lujiayan's CapstoneProject 
 email:
 description: "顶点课程/毕业设计/毕业论文/模板"
 baseurl: "CapstoneProject-1/"  # the optional subpath of your site, e.g. "/blog"
